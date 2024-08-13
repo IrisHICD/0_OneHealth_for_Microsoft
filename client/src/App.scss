@@ -1,0 +1,6 @@
+@use "/src/styles/partials/variables.scss" as *;
+@use "/src/styles/partials/typography.scss" as *;
+@use "/src/styles/partials/global.scss" as *;
+
+@include font-faces;
+@include global-styles;
